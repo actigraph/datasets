@@ -1,0 +1,4 @@
+outs:
+- md5: d0ce19ff76b75345b9f36d9ca676621e
+  size: 67871
+  path: csem_cmp.csv

@@ -1,0 +1,6 @@
+[core]
+    remote = azure
+    autostage = true
+['remote "azure"']
+    url = azure://pywear/
+    account_name = agds
