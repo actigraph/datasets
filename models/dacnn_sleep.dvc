@@ -1,0 +1,5 @@
+outs:
+- md5: 6ba82d46914326b5d11f06bf03d91251.dir
+  size: 413432
+  nfiles: 7
+  path: dacnn_sleep
